@@ -11,7 +11,7 @@
 
 ## 📸 Preview
 
-<!-- ![Game Screenshot](assets/jocrazboi.png) -->
+![Game Screenshot](assets/jocrazboi.png)
 
 ---
 
