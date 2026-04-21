@@ -11,13 +11,7 @@
 
 ## 📸 Preview
 
-<!-- Add screenshot:
-     1. Run the game in Visual Studio (F5)
-     2. Screenshot the window (Win+Shift+S)
-     3. Save as assets/screenshot.png and uncomment below:
--->
-
-<!-- ![Game Screenshot](assets/screenshot.png) -->
+<!-- ![Game Screenshot](assets/jocrazboi.png) -->
 
 ---
 
